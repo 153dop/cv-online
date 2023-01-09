@@ -217,19 +217,19 @@ header .button:hover a {
 
 #parcours .timeline h4 {
   font-size: 1.6em;
-  color: #ff4e50;
+  color: #16a167;
   margin-left: 20px;
 }
 
 #parcours .timeline h6 {
   font-style: italic;
-  color: #edca21;
+  color: #080804;
   margin-left: 20px;
 }
 
 #parcours .timeline p {
   line-height: 1.9em;
-  text-shadow: 1px 1px 2px #fd7044, 0 0 1em #fff, 0 0 0.2em #ffc107;
+  text-shadow: 1px 1px 2px #0a661e, 0 0 1em #fff, 0 0 0.2em #ffc107;
 }
 
 #parcours .timeline:nth-child(1) {
@@ -400,8 +400,10 @@ header .button:hover a {
             transform: translateX(0) translateY(0);
   }
   100% {
-    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
-            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
     -webkit-transform: translateX(-6px) translateY(-6px);
             transform: translateX(-6px) translateY(-6px);
   }
@@ -415,8 +417,10 @@ header .button:hover a {
             transform: translateX(0) translateY(0);
   }
   100% {
-    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
-            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
     -webkit-transform: translateX(-6px) translateY(-6px);
             transform: translateX(-6px) translateY(-6px);
   }
@@ -424,8 +428,10 @@ header .button:hover a {
 
 @-webkit-keyframes shadow-push {
   0% {
-    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
-            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
     -webkit-transform: translateX(-6px) translateY(-6px);
             transform: translateX(-6px) translateY(-6px);
   }
@@ -439,8 +445,10 @@ header .button:hover a {
 
 @keyframes shadow-push {
   0% {
-    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
-            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e, 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+    -webkit-box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
+            box-shadow: 1px 1px #3e3e3e, 2px 2px #3e3e3e, 3px 3px #3e3e3e, 4px 4px #3e3e3e, 5px 5px #3e3e3e, 6px 6px #3e3e3e,
+ 7px 7px #3e3e3e, 8px 8px #3e3e3e;
     -webkit-transform: translateX(-6px) translateY(-6px);
             transform: translateX(-6px) translateY(-6px);
   }

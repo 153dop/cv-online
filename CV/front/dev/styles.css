@@ -174,7 +174,7 @@ header .button:hover a {
    max-width: 800px;
    margin: 640px auto 180px;
    padding: 40px 30px 100px;
-   background: url('./media/parcours2.jpg') no-repeat fixed center;
+   background: url('./media/parcours.jpgS') no-repeat fixed center;
    background-size: cover;
    box-shadow: -1px -1px 8px #283655;
 }
@@ -193,7 +193,7 @@ header .button:hover a {
    margin-left: 20px;
 }
 #parcours p {
-   line-height: 1.9em;color: #0b3004  ;
+   line-height: 1.9em;color: #2dac14  ;
 }
 .timeline {
    border-top: 3px solid;

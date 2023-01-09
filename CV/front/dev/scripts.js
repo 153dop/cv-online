@@ -143,9 +143,9 @@ $('#reused_form').submit(function (e) {
 });
 
 // PRE-REMPLISSAGE DU FORM
-document.querySelector('#name').value = 'Albert';
-document.querySelector('#email').value = 'opjpo@oihoih.fr';
-document.querySelector('#message').value = "Hey mon ami, t'aimes ca manger des patates.";
+document.querySelector('#name').value = 'votre nom';
+document.querySelector('#email').value = 'votre email';
+document.querySelector('#message').value = "ecrivez votre message ici.";
 
 // TODO Ajouter une barre de progression en haut de la page
 // https://www.alsacreations.com/article/lire/1615-cest-quoi-le-responsive-web-design.html
